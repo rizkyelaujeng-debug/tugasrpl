@@ -1,5 +1,5 @@
 function tambah(a, b) {
-  return a + b;
+  return a + b; // fix
 }
 
 function hitungDiskon(harga, persenDiskon) {
